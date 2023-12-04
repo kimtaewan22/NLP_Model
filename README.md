@@ -27,3 +27,7 @@ To address this issue, the proposed solution involves analyzing text messages on
 
 ---
 
+## Dataset
+- [korean-hate-speech](https://github.com/kocohub/korean-hate-speech)
+- [korean_unsmile](https://github.com/smilegate-ai/korean_unsmile_dataset)
+- [nsmc](https://github.com/e9t/nsmc)
