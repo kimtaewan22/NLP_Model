@@ -1,5 +1,6 @@
 # NLP Project
-
+## Title
+> Android-Based System for Analyzing and Improving Negative Language Usage Habits
 ---
 ## Project Background
 
@@ -23,4 +24,6 @@ To address this issue, the proposed solution involves analyzing text messages on
 | RAM               | Total: 1.0T|
 | OS          | Ubuntu 18.04.4 LTS|
 | CUDA              | CUDA Toolkit V11.0 |
+
+---
 
