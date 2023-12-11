@@ -20,7 +20,7 @@ To address this issue, the proposed solution involves analyzing text messages on
 | Item            | Details                                  |
 |-----------------|--------------------------------------------------|
 | CPU               | AMD EPYC 7742 64-Core Processor                  |
-| GPU               | A100-SXM4-40GB                                  |
+| GPU               | A100-SXM4-80GB                                  |
 | RAM               | Total: 32G|
 | OS          | Ubuntu 18.04.4 LTS|
 | CUDA              | CUDA Toolkit V11.0 |
